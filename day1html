@@ -3,3 +3,9 @@
 3. Event Basis
 4. Operation elements
 5. Node Operations
+
+
+<1.   What is Dom?
+DOM(Dcoument object Model) the standard interface recommended by the w3c organization for handling 
+expandable sheet processing markup languages(HTML or XML).
+Change  page    structure     style.
